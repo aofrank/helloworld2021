@@ -1,6 +1,7 @@
-<h1> Hello, Welcome to Simple DevOps Project John !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Hope you are enyoying </h2>
-<h1> Good job </h1>
-<h2> Hope you are enjoying it  </h2>
+<h1> Hello, Welcome to Simple DevOps Project Frankie !!   </h1>
+<h2> Data Service Group is your learning partner on this journey </h2>
+<h2> Hope you are enyoying the course </h2>
+<h1> Good job on staying focus </h1>
+<h2> Hope you are enjoying this experience </h2>
+<h2> Can't wait for the blessings of God to bring the big $$$ </h2>
 
